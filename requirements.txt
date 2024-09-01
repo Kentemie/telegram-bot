@@ -1,0 +1,15 @@
+# telegram-bot
+aiogram==3.12.0
+aiogram-dialog==2.1.0
+
+
+# services
+aiogoogle==5.12.0
+
+
+# utils
+async-property==0.2.2
+betterlogging==1.0.0
+black==24.8.0
+matplotlib==3.9.2
+pydantic-settings==2.4.0
